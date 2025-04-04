@@ -1,1 +1,1 @@
-# queue
+simulates basic queue functionality
